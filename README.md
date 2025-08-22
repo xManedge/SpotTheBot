@@ -43,7 +43,7 @@ This project aims to classify whether an image is **real** or **AI-generated**, 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/fake-image-detector.git
-cd fake-image-detector```
+git clone https://github.com/xManedge/SpotTheBot.git
+cd SpotTheBot```
 ```streamlit run app.py```
 
